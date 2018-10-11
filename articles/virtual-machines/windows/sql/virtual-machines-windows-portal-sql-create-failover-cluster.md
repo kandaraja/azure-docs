@@ -2,21 +2,8 @@
 title: SQL Server FCI - Azure Virtual Machines | Microsoft Docs
 description: "This article explains how to create SQL Server Failover Cluster Instance on Azure Virtual Machines."
 services: virtual-machines
-documentationCenter: na
-authors: MikeRayMSFT
-manager: craigg
-editor: monicar
-tags: azure-service-management
-
-ms.assetid: 9fc761b1-21ad-4d79-bebc-a2f094ec214d
-ms.service: virtual-machines-sql
-ms.devlang: na
-ms.custom: na
-ms.topic: article
-ms.tgt_pltfrm: vm-windows-sql-server
 ms.workload: iaas-sql-server
 ms.date: 06/11/2018
-ms.author: mikeray
 ---
 
 # Configure SQL Server Failover Cluster Instance on Azure Virtual Machines
